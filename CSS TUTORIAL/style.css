@@ -22,3 +22,15 @@ button{
 .headingFive{
     color: chartreuse;          /*CSS by CLASS */
 }
+
+.right{
+    text-align: right;
+}
+
+.middle{
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+}
