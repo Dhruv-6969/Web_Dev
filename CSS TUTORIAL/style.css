@@ -10,3 +10,11 @@ button{
     color: white;
     background-color: blue;
 }
+/* 
+*{
+    color: aquamarine;      Universal Selector
+} */ 
+
+#headingOne{
+    color: chocolate;
+}
